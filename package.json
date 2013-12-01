@@ -1,0 +1,29 @@
+{
+  "name": "fdrest",
+  "version": "0.1.0",
+  "description": "",
+  "homepage": "https://github.com/chromecide/fdrest",
+  "keywords": [
+    "FluxData",
+    "events",
+    "event-driven",
+    "framework",
+    "Mixins",
+    "fdmixin",
+    "fdrest",
+    "REST"
+  ],
+  "author": {
+    "name": "Justin Pradier",
+    "email": "chromecide@chromecide.com",
+    "url": "http://chromecide.com/"
+  },
+  "dependencies": {
+    "amdefine": "0.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chromecide/fdrest.git"
+  },
+  "main": "index.js"
+}
